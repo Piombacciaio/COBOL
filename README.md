@@ -1,5 +1,7 @@
 # COBOL Snippets & Stuff
 
+A few days ago I thought to myself "Hey, why don't you start studying a language that is at least a decade older than your fucking parents?". Here we are I guess, what could possibly go wrong?
+
 ## Index
 
 - [Basics](#basics)
